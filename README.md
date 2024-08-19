@@ -8,14 +8,14 @@ This repository contains my submissions and achievements in various Zindi compet
 
 | Competition Name                   | Description                                              | Rank   |
 |------------------------------------|----------------------------------------------------------|--------|
-| [Wildfire Prediction Challenge](https://github.com/S-Osman4/Zindi/tree/main/Wildfire%20Prediction%20Challenge) | Predicting burned area of wildfires in Zimbabwe           | 3rd    |
+| [Wildfire Prediction Challenge](./Wildfire%20Prediction%20Challenge/) | Predicting burned area of wildfires in Zimbabwe           | 3rd    |
 
 
 ## Achievements
 
 ### Wildfire Prediction Challenge
 - **Rank**: 3rd Place
-- ![Certificate]()
+- ![Certificate](./Achievements/data-benders-Wildfire%20Prediction%20Challenge.png)
 
 
 
