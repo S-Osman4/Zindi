@@ -20,7 +20,7 @@ This repository contains my submissions and achievements in various Zindi compet
 
 
 <div align="center">
-    <a href="[https://example.com](https://zindi.africa/?referralCode%3DZBtnE5)" target="_blank">
+    <a href="[https://zindi.africa/?referralCode%3DZBtnE5]" target="_blank">
         <img src="https://img.shields.io/badge/Join%20Zindi-blue?style=for-the-badge" alt="Join Me">
     </a>
 </div>
