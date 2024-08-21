@@ -1,6 +1,6 @@
 # Zindi Competitions
 
-This repository contains my submissions and achievements in various Zindi competitions.
+This repository contains my submissions and achievements in various [Zindi](https://github.com/ZindiAfrica) competitions.
 
 # Zindi Competitions
 
