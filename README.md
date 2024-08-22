@@ -14,7 +14,7 @@ This repository contains my submissions and achievements in various [Zindi](http
 ## Achievements
 
 ### Wildfire Prediction Challenge
-- **Rank**: 3rd Place
+- **Rank**: 3rd Place. This project was a group project, check out our [project repo](https://github.com/maxwellmogambi/wildfire_prediction)
 ![Certificate](./Achievements/data-benders-Wildfire%20Prediction%20Challenge.png)
 
 
